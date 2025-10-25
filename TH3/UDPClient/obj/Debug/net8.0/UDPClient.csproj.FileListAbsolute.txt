@@ -1,0 +1,14 @@
+E:\Lap Trinh Mang\TH3\UDPClient\bin\Debug\net8.0\UDPClient.exe
+E:\Lap Trinh Mang\TH3\UDPClient\bin\Debug\net8.0\UDPClient.deps.json
+E:\Lap Trinh Mang\TH3\UDPClient\bin\Debug\net8.0\UDPClient.runtimeconfig.json
+E:\Lap Trinh Mang\TH3\UDPClient\bin\Debug\net8.0\UDPClient.dll
+E:\Lap Trinh Mang\TH3\UDPClient\bin\Debug\net8.0\UDPClient.pdb
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.AssemblyInfoInputs.cache
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.AssemblyInfo.cs
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.csproj.CoreCompileInputs.cache
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.dll
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\refint\UDPClient.dll
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.pdb
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\UDPClient.genruntimeconfig.cache
+E:\Lap Trinh Mang\TH3\UDPClient\obj\Debug\net8.0\ref\UDPClient.dll
