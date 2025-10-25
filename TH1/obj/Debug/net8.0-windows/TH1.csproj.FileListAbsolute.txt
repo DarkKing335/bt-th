@@ -1,0 +1,17 @@
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.FormServer.resources
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.csproj.GenerateResource.cache
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.AssemblyInfoInputs.cache
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.AssemblyInfo.cs
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.csproj.CoreCompileInputs.cache
+E:\Lap Trinh Mang\TH1\bin\Debug\net8.0-windows\TH1.exe
+E:\Lap Trinh Mang\TH1\bin\Debug\net8.0-windows\TH1.deps.json
+E:\Lap Trinh Mang\TH1\bin\Debug\net8.0-windows\TH1.runtimeconfig.json
+E:\Lap Trinh Mang\TH1\bin\Debug\net8.0-windows\TH1.dll
+E:\Lap Trinh Mang\TH1\bin\Debug\net8.0-windows\TH1.pdb
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.dll
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\refint\TH1.dll
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.pdb
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.genruntimeconfig.cache
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\ref\TH1.dll
+E:\Lap Trinh Mang\TH1\obj\Debug\net8.0-windows\TH1.FormClient.resources

@@ -1,0 +1,4 @@
+E:\Lap Trinh Mang\TH0\obj\Debug\net8.0\TH0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lap Trinh Mang\TH0\obj\Debug\net8.0\TH0.AssemblyInfoInputs.cache
+E:\Lap Trinh Mang\TH0\obj\Debug\net8.0\TH0.AssemblyInfo.cs
+E:\Lap Trinh Mang\TH0\obj\Debug\net8.0\TH0.csproj.CoreCompileInputs.cache
